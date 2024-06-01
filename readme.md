@@ -4,23 +4,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/wahwahwahwah-wah">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="https://i.pinimg.com/736x/43/7f/81/437f8183aec33d164ca80e87b3461efe.jpg" alt="LRR" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">WEB DESIGN MIDTERMS</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  A wireframe website that serves as our midterm exam.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=wahwahwahwah-wah/WD-MIDTERMS)
 
 ---
 
@@ -61,8 +61,11 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+A wireframe website.
 - Whats the purpose
+Midterms
 - What are key components
+
 - What technology used and how it is used
 
 ### Key Components
@@ -117,4 +120,6 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Portfolio-Website-template | Took inspiration for the index.html | https://github.com/saileshrijal/portfolio-website-template?tab=readme-ov-file |
+| Portfolio-Website.github.io | Took inspiration for the style.css | https://github.com/Sadia-Shahzadi/Portfolio-Website.github.io |
+| Copy & paste CSS | Took inspiration for the style.css | https://copy-paste-css.com/ |
